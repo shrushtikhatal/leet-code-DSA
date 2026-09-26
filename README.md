@@ -18,8 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrushtikhatal/leet-code-DSA/tree/master/0001-two-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrushtikhatal/leet-code-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrushtikhatal/leet-code-DSA/tree/master/0001-two-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrushtikhatal/leet-code-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## String
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrushtikhatal/leet-code-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
