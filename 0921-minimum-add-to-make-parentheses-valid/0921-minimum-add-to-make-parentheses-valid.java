@@ -5,13 +5,13 @@ class Solution {
         int open = 0;
         int moves = 0;
 
-         for (char c : s.toCharArray()) {
+         for (int i=0;i<s.length();i++) {
 
-            if (c == '(') {
+            if (s.charAt(i) == '(') {
                 open++;
             } else {
                 if (open > 0) {
-                    open--;
+                  open--;
                 } else {
                     moves++;
                 }
