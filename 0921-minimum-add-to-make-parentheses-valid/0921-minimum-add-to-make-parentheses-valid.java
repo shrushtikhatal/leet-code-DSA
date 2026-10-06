@@ -3,7 +3,7 @@ class Solution {
         int open = 0;
         int moves = 0;
 
-        for (char c : s.toCharArray()) {
+         for (char c : s.toCharArray()) {
 
             if (c == '(') {
                 open++;
@@ -16,6 +16,6 @@ class Solution {
             }
         }
 
-        return moves + open;
+     return moves + open;
     }
 }
