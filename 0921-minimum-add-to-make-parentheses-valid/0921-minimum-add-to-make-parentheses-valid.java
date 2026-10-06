@@ -1,5 +1,7 @@
 class Solution {
+
     public int minAddToMakeValid(String s) {
+
         int open = 0;
         int moves = 0;
 
